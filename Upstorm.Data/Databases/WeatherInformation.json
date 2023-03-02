@@ -1,0 +1,292 @@
+{
+  "Andijan": [
+    {
+      "Main": "Foggy",
+      "Humidity": 58,
+      "Temperature": 7.72,
+      "Sunrise": "2023-02-23 06:47:48",
+      "Sunset": "2023-02-23 17:53:22",
+      "WindSpeed": 3.54
+    },
+    {
+      "Main": "Clear",
+      "Humidity": 57,
+      "Temperature": 8.91,
+      "Sunrise": "2023-02-24 06:46:29",
+      "Sunset": "2023-02-24 17:54:46",
+      "WindSpeed": 3.41
+    },
+    {
+      "Main": "Rainy",
+      "Humidity": 74,
+      "Temperature": 6.89,
+      "Sunrise": "2023-02-25 06:45:11",
+      "Sunset": "2023-02-25 17:56:10",
+      "WindSpeed": 2.87
+    },
+    {
+      "Main": "Cloudy",
+      "Humidity": 60,
+      "Temperature": 9.43,
+      "Sunrise": "2023-02-26 06:43:52",
+      "Sunset": "2023-02-26 17:57:34",
+      "WindSpeed": 3.14
+    },
+    {
+      "Main": "Cloudy",
+      "Humidity": 52,
+      "Temperature": 11.29,
+      "Sunrise": "2023-02-27 06:42:32",
+      "Sunset": "2023-02-27 17:59:22",
+      "WindSpeed": 3.29
+    },
+    {
+      "Main": "Snowy",
+      "Humidity": 50,
+      "Temperature": -12.71,
+      "Sunrise": "2023-02-28 06:41:13",
+      "Sunset": "2023-02-28 18:00:46",
+      "WindSpeed": 3.46
+    },
+    {
+      "Main": "Snowy",
+      "Humidity": 60,
+      "Temperature": -17.71,
+      "Sunrise": "2023-03-01 06:41:13",
+      "Sunset": "2023-03-01 18:00:46",
+      "WindSpeed": 3.48
+    }
+  ],
+  "Fergana": [
+    {
+      "Main": "Rainy",
+      "Humidity": 64,
+      "Temperature": 10.86,
+      "Sunrise": "2023-02-23 06:47:24",
+      "Sunset": "2023-02-23 17:52:58",
+      "WindSpeed": 4.09
+    },
+    {
+      "Main": "Cloudy",
+      "Humidity": 60,
+      "Temperature": 8.16,
+      "Sunrise": "2023-02-24 06:46:05",
+      "Sunset": "2023-02-24 17:54:22",
+      "WindSpeed": 3.27
+    },
+    {
+      "Main": "Clear",
+      "Humidity": 72,
+      "Temperature": 11.87,
+      "Sunrise": "2023-02-25 06:44:47",
+      "Sunset": "2023-02-25 17:55:46",
+      "WindSpeed": 2.78
+    },
+    {
+      "Main": "Rainy",
+      "Humidity": 68,
+      "Temperature": 8.91,
+      "Sunrise": "2023-02-26 06:43:28",
+      "Sunset": "2023-02-26 17:57:10",
+      "WindSpeed": 3.87
+    },
+    {
+      "Main": "Cloudy",
+      "Humidity": 56,
+      "Temperature": 12.64,
+      "Sunrise": "2023-02-27 06:42:09",
+      "Sunset": "2023-02-27 17:58:58",
+      "WindSpeed": 2.98
+    },
+    {
+      "Main": "Snowy",
+      "Humidity": 52,
+      "Temperature": -10.36,
+      "Sunrise": "2023-02-28 06:40:51",
+      "Sunset": "2023-02-28 18:00:22",
+      "WindSpeed": 4.32
+    },
+    {
+      "Main": "Snowy",
+      "Humidity": 65,
+      "Temperature": -18.71,
+      "Sunrise": "2023-03-01 06:41:13",
+      "Sunset": "2023-03-01 18:00:46",
+      "WindSpeed": 5.48
+    }
+  ],
+  "Namangan": [
+    {
+      "Main": "Rainy",
+      "Humidity": 78,
+      "Temperature": 9.12,
+      "Sunrise": "2023-02-23 06:47:48",
+      "Sunset": "2023-02-23 17:53:22",
+      "WindSpeed": 4.62
+    },
+    {
+      "Main": "Foggy",
+      "Humidity": 63,
+      "Temperature": 7.42,
+      "Sunrise": "2023-02-24 06:46:29",
+      "Sunset": "2023-02-24 17:54:46",
+      "WindSpeed": 2.89
+    },
+    {
+      "Main": "Cloudy",
+      "Humidity": 72,
+      "Temperature": 11.56,
+      "Sunrise": "2023-02-25 06:45:11",
+      "Sunset": "2023-02-25 17:56:10",
+      "WindSpeed": 3.78
+    },
+    {
+      "Main": "Clear",
+      "Humidity": 55,
+      "Temperature": 12.34,
+      "Sunrise": "2023-02-26 06:43:52",
+      "Sunset": "2023-02-26 17:57:34",
+      "WindSpeed": 4.21
+    },
+    {
+      "Main": "Rainy",
+      "Humidity": 61,
+      "Temperature": 7.89,
+      "Sunrise": "2023-02-27 06:42:32",
+      "Sunset": "2023-02-27 17:59:22",
+      "WindSpeed": 3.23
+    },
+    {
+      "Main": "Snowy",
+      "Humidity": 49,
+      "Temperature": -9.51,
+      "Sunrise": "2023-02-28 06:41:13",
+      "Sunset": "2023-02-28 18:00:46",
+      "WindSpeed": 4.87
+    },
+    {
+      "Main": "Snowy",
+      "Humidity": 59,
+      "Temperature": -19.51,
+      "Sunrise": "2023-03-01 06:41:13",
+      "Sunset": "2023-03-01 18:00:46",
+      "WindSpeed": 9.87
+    }
+  ],
+  "Tashkent": [
+    {
+      "Main": "Rainy",
+      "Humidity": 78,
+      "Temperature": 9.12,
+      "Sunrise": "2023-02-23 06:47:48",
+      "Sunset": "2023-02-23 17:53:22",
+      "WindSpeed": 4.62
+    },
+    {
+      "Main": "Foggy",
+      "Humidity": 63,
+      "Temperature": 7.42,
+      "Sunrise": "2023-02-24 06:46:29",
+      "Sunset": "2023-02-24 17:54:46",
+      "WindSpeed": 2.89
+    },
+    {
+      "Main": "Cloudy",
+      "Humidity": 72,
+      "Temperature": 11.56,
+      "Sunrise": "2023-02-25 06:45:11",
+      "Sunset": "2023-02-25 17:56:10",
+      "WindSpeed": 3.78
+    },
+    {
+      "Main": "Clear",
+      "Humidity": 55,
+      "Temperature": 12.34,
+      "Sunrise": "2023-02-26 06:43:52",
+      "Sunset": "2023-02-26 17:57:34",
+      "WindSpeed": 4.21
+    },
+    {
+      "Main": "Rainy",
+      "Humidity": 61,
+      "Temperature": 7.89,
+      "Sunrise": "2023-02-27 06:42:32",
+      "Sunset": "2023-02-27 17:59:22",
+      "WindSpeed": 3.23
+    },
+    {
+      "Main": "Snowy",
+      "Humidity": 49,
+      "Temperature": -9.51,
+      "Sunrise": "2023-02-28 06:41:13",
+      "Sunset": "2023-02-28 18:00:46",
+      "WindSpeed": 4.87
+    },
+    {
+      "Main": "Snowy",
+      "Humidity": 59,
+      "Temperature": -19.51,
+      "Sunrise": "2023-03-01 06:41:13",
+      "Sunset": "2023-03-01 18:00:46",
+      "WindSpeed": 9.87
+    }
+  ],
+  "Gulistan": [
+    {
+      "Main": "Clear",
+      "Humidity": 76,
+      "Temperature": 13.65,
+      "Sunrise": "2023-02-23 06:49:05",
+      "Sunset": "2023-02-23 18:01:22",
+      "WindSpeed": 4.53
+    },
+    {
+      "Main": "Rainy",
+      "Humidity": 82,
+      "Temperature": 6.98,
+      "Sunrise": "2023-02-24 06:50:28",
+      "Sunset": "2023-02-24 18:03:07",
+      "WindSpeed": 5.13
+    },
+    {
+      "Main": "Cloudy",
+      "Humidity": 67,
+      "Temperature": 10.47,
+      "Sunrise": "2023-02-25 06:51:50",
+      "Sunset": "2023-02-25 18:04:52",
+      "WindSpeed": 2.89
+    },
+    {
+      "Main": "Foggy",
+      "Humidity": 57,
+      "Temperature": 8.11,
+      "Sunrise": "2023-02-26 06:53:13",
+      "Sunset": "2023-02-26 18:06:36",
+      "WindSpeed": 3.96
+    },
+    {
+      "Main": "Rainy",
+      "Humidity": 61,
+      "Temperature": 7.01,
+      "Sunrise": "2023-02-27 06:54:35",
+      "Sunset": "2023-02-27 18:08:21",
+      "WindSpeed": 3.23
+    },
+    {
+      "Main": "Snowy",
+      "Humidity": 49,
+      "Temperature": -6.71,
+      "Sunrise": "2023-02-28 06:55:57",
+      "Sunset": "2023-02-28 18:10:06",
+      "WindSpeed": 5.47
+    },
+    {
+      "Main": "Snowy",
+      "Humidity": 59,
+      "Temperature": -16.84,
+      "Sunrise": "2023-03-01 06:57:19",
+      "Sunset": "2023-03-01 18:11:51",
+      "WindSpeed": 8.31
+    }
+  ]
+}

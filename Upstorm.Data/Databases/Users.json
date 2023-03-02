@@ -1,0 +1,14 @@
+[
+  {
+    "FirstName": "Akmal",
+    "LastName": "Ali",
+    "Username": "aju",
+    "Password": "qwerty",
+    "Role": 20,
+    "LookingCity": "Andijan",
+    "LookingWeekDay": null,
+    "Id": 2,
+    "CreatedAt": "2023-02-23T07:43:05.455316Z",
+    "UpdatedAt": null
+  }
+]
